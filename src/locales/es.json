@@ -1,0 +1,11 @@
+{
+  "home": "Inicio",
+  "welcome":"Bienvenido a Eventify",
+  "not-found": "Pagina no encontrada",
+  "registeredEvents": "Eventos registrados",
+  "registeredAttendees": "Asistentes registrados",
+  "attendancePercentage": "Porcentaje de asistencia",
+    "Event-Check-In": "Registro de eventos",
+    "Ticket-Validation": "Validación de boletos",
+    "ticketIdentifier": "Identificador de boleto"
+}
